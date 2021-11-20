@@ -18,8 +18,6 @@ module.exports = {
         "react"
     ],
     "rules": {
-        "semi": ["error", "always"],
-        "quotes": ["error", "double"],
         "no-console": 0,
         "no-empty": 0,
         "no-irregular-whitespace":0
